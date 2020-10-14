@@ -1,5 +1,5 @@
 # helooworld
 
-Esse é meu primeiro código do github.
+Esse é meu primeiro projeto JS
 
 by  Rafaela Souza
